@@ -34,7 +34,10 @@
             <a class="nav-link active" aria-current="page" href="#">Home</a>
             </li>
             <li class="nav-item">
-            <a class="nav-link" href="#">login</a>
+            <a class="nav-link" href="yuklogin">login Customer</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="logAdmin">login Admin</a>
             </li>
             <li class="nav-item">
             <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">kategori</a>

@@ -40,6 +40,9 @@
             <a class="nav-link" href="logAdmin">login Admin</a>
             </li>
             <li class="nav-item">
+            <a class="nav-link" href="Register">Register</a>
+            </li>
+            <li class="nav-item">
             <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">kategori</a>
             </li>
         </ul>

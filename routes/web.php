@@ -24,3 +24,7 @@ Route::get('/yuklogin' ,function(){
 Route::get('/logAdmin', function(){
     return view ('super');
 });
+
+Route::get ('/Register' ,function(){
+    return view ('register');
+});
